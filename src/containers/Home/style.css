@@ -1,0 +1,11 @@
+.row {
+  display: flex;
+  justify-content: space-around;
+  width: 36%;
+  margin-top: 10px;
+  margin-left: 1px;
+}
+
+.addRowButton {
+  margin: 26px 10px 10px 10px;
+}
